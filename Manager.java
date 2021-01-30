@@ -29,5 +29,8 @@ public class Manager extends Employee {
     public void print() {
         super.print();
         System.out.println("Has stocks: " + hasStocks);
+
+        //java rules
+
     }
 }
