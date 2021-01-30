@@ -33,5 +33,8 @@ public class Main {
         Developer.writeCode();
         Manager.writeProcedures();
         CEO.goPublic();
+
+        //I've developed Linux for the world
+
     }
 }
